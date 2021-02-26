@@ -7,7 +7,7 @@ client.on("ready", () =>{
     client.user.setPresence({
         status: 'available',
         activity: {
-            name: 'for !quote',
+            name: '!quote',
             type: 'LISTENING',
             url: 'https://discord.com'
         }
