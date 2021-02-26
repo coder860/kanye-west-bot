@@ -7,8 +7,8 @@ client.on("ready", () =>{
     client.user.setPresence({
         status: 'available',
         activity: {
-            name: 'with Kim Kardashian',
-            type: 'PLAYING',
+            name: 'for !quote',
+            type: 'LISTENING',
             url: 'https://discord.com'
         }
     });
